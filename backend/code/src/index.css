@@ -1,0 +1,12 @@
+/* src/index.css */
+pre {
+    background: #2d2d2d;
+    color: #f8f8f2;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    overflow-x: auto;
+  }
+  
+  code {
+    font-family: "Fira Code", monospace;
+  }
